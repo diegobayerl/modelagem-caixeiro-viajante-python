@@ -1,0 +1,2 @@
+distancia:  485
+Melhor Rota:  [1, 2, 5, 4, 3, 1]
